@@ -1,0 +1,15 @@
+bibentry(
+  bibtype = "Article",
+  title = "sectorgap: An {R} package for consistent economic trend cycle decomposition",
+  author = c(person(given = "Sina", 
+             family = "Streicher", 
+             email = "streicher@kof.ethz.ch")),
+  journal = "{KOF} Working Papers",
+  number  = "514",
+  year = "2024",
+  textVersion =   paste("Streicher, S. (2024).",
+        "sectorgap: An R package for consistent economic trend cycle decomposition.",
+        "KOF Working Papers 514."),
+  
+  header = "To cite sectorgap in publications use:"
+)
